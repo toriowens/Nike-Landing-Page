@@ -5,4 +5,4 @@
 <img width="500" alt="Screen Shot 2023-09-18 at 11 02 24 PM" src="https://github.com/odawgstl/Nike-Landing-Page/assets/100544090/7fe3d3a6-ca8c-41e9-84e4-4e419a9e8837">
 <img width="500" alt="Screen Shot 2023-09-18 at 11 02 47 PM" src="https://github.com/odawgstl/Nike-Landing-Page/assets/100544090/759e96c9-9bb6-4b5b-9e0f-8946dadf55f9">
 
-Landing page clone/remake for Nike to show off technical expertise.
+Landing page clone/remake created for Nike to show off technical expertise.
